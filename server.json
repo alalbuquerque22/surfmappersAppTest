@@ -1,0 +1,216 @@
+{
+    "feed": [
+      {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1594464481488-2767aa38518c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=972&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
+        "aspectRatio": 0.834,
+        "description": "SURFINNNNNNG!",
+        "authorId": 1
+      },
+      {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1564499504739-bc4fc2ae8cba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1033&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/2.jpeg",
+        "aspectRatio": 0.834,
+        "description": "KiteSurfing!",
+        "authorId": 2
+      },
+      {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1599393825194-41d568ac49b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/3.jpeg",
+        "aspectRatio": 0.834,
+        "description": "OCEANOS",
+        "authorId": 3
+      },
+      {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1513569143478-b38b2c0ef97f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/4.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing Nice!",
+        "authorId": 4
+      },
+      {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1513569143478-b38b2c0ef97f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/5.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing !",
+        "authorId": 2
+      },
+      {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1505459668311-8dfac7952bf0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/6.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing + JSON-SERVER + React Native",
+        "authorId": 3
+      },
+      {
+        "id": 7,
+        "image": "https://images.unsplash.com/photo-1502836409737-232b37c6716d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=765&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/7.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - rescue!",
+        "authorId": 1
+      },
+      {
+        "id": 8,
+        "image": "https://images.unsplash.com/photo-1515541324332-7dd0c37426e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=936&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/8.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing!",
+        "authorId": 2
+      },
+      {
+        "id": 9,
+        "image": "https://images.unsplash.com/photo-1509914398892-963f53e6e2f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/9.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - our videos at YouTube?",
+        "authorId": 4
+      },
+      {
+        "id": 10,
+        "image": "https://images.unsplash.com/photo-1537519646099-335112f03225?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/10.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - and more!",
+        "authorId": 3
+      },
+      {
+        "id": 11,
+        "image": "https://images.unsplash.com/photo-1454391304352-2bf4678b1a7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/11.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de coqueiro - app!",
+        "authorId": 1
+      },
+      {
+        "id": 12,
+        "image": "https://images.unsplash.com/photo-1531722569936-825d3dd91b15?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/12.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - code everyday!",
+        "authorId": 3
+      },
+      {
+        "id": 13,
+        "image": "https://images.unsplash.com/photo-1513737567531-bc431c8e5e85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/4.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing -, code, repeat!",
+        "authorId": 2
+      },
+      {
+        "id": 14,
+        "image": "https://images.unsplash.com/photo-1501949997128-2fdb9f6428f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/5.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing !",
+        "authorId": 4
+      },
+      {
+        "id": 15,
+        "image": "https://images.unsplash.com/photo-1616449973117-0e1d99c56ed3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/3.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - and more code!",
+        "authorId": 4
+      },
+      {
+        "id": 16,
+        "image": "https://images.unsplash.com/photo-1535182463927-440364075d9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1172&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/2.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - React Native stuff!",
+        "authorId": 3
+      },
+      {
+        "id": 17,
+        "image": "https://images.unsplash.com/photo-1455729552865-3658a5d39692?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - such a great tool by Facebook!",
+        "authorId": 2
+      },
+      {
+        "id": 18,
+        "image": "https://images.unsplash.com/photo-1506797220058-533e019ac7fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/8.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - do, do what you love!",
+        "authorId": 1
+      },
+      {
+        "id": 19,
+        "image": "https://images.unsplash.com/photo-1523606772308-64a28db0ef2c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/7.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - and more code!",
+        "authorId": 2
+      },
+      {
+        "id": 20,
+        "image": "https://images.unsplash.com/photo-1528150177508-7cc0c36cda5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/6.jpeg",
+        "aspectRatio": 0.834,
+        "description": "Foto de Surfing - for your dreams?",
+        "authorId": 1
+      }
+    ],
+    "authors": [
+      {
+        "id": 1,
+        "name": "Andre",
+        "avatar": "https://avatars.githubusercontent.com/u/35897968?v=4"
+      },
+      {
+        "id": 2,
+        "name": "cleitonsouza",
+        "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      },
+      {
+        "id": 3,
+        "name": "pellizzetti",
+        "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4"
+      },
+      {
+        "id": 4,
+        "name": "jpdemagalhaes",
+        "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+      },
+      {
+        "id": 5,
+        "name": "jpedroschmitz",
+        "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4"
+      },
+      {
+        "id": 6,
+        "name": "Andre",
+        "avatar": "https://avatars.githubusercontent.com/u/35897968?v=4"
+      },
+      {
+        "id": 7,
+        "name": "cleitonsouza",
+        "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      },
+      {
+        "id": 8,
+        "name": "pellizzetti",
+        "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4"
+      },
+      {
+        "id": 9,
+        "name": "jpdemagalhaes",
+        "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+      },
+      {
+        "id": 10,
+        "name": "jpedroschmitz",
+        "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4"
+      }
+    ]
+  }
